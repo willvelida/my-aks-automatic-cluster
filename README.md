@@ -1,0 +1,1 @@
+# my-aks-automatic-cluster
